@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm S.M Asif Rahman</h1>
 <h3 align="center">Currently Studying B.Sc in Computer Science and Engineering at North South University</h3>
-<img align="right" alt="gif" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.arnabghosh.me%2Fadd-github-dark-snake-animation-readme&psig=AOvVaw1sVoh46KycFlHi3yYE3kiJ&ust=1672303891465000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiZw9H3m_wCFQAAAAAdAAAAABAR" width="400">
+<img align="right" alt="gif" width="400" src="https://tenor.com/en-GB/view/coding-gif-24625099">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asif-smar&label=Profile%20views&color=0e75b6&style=flat" alt="asif-smar" /> </p>
