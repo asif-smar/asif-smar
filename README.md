@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm S.M Asif Rahman</h1>
 <h3 align="center">Currently Studying B.Sc in Computer Science and Engineering at North South University</h3>
-<img align="right" alt="gif" src="![image](https://user-images.githubusercontent.com/94311953/209784563-d13ae59c-e616-4909-b846-502e7460c95d.png)"
+<img align="right" alt="gif" src="![image](https://user-images.githubusercontent.com/94311953/209784563-d13ae59c-e616-4909-b846-502e7460c95d.png)" width="400">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asif-smar&label=Profile%20views&color=0e75b6&style=flat" alt="asif-smar" /> </p>
